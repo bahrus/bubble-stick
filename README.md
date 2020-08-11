@@ -6,3 +6,4 @@ This is an especially challenging issue when there are multiple libraries at wor
 
 bubble-stick's purpose is to "centralize" the pain, and to "enhance" native or custom elements with bubbling (even composing) events.
 
+**NB** Never mind.  Didn't read to the end of the article above.  It seems the capture option should resolve this conundrum.  
